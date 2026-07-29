@@ -1,6 +1,6 @@
 cask "scroll" do
-  version "1.0.1"
-  sha256 "febc1f77610b3a28568188b1c8ead5683deae76c74bc267638e50315d2e369ab"
+  version "1.0.2"
+  sha256 "5a4eb1c58609e254aadcddfc82c13f96c3476cb0162f72400ab3c1c76fa36c10"
 
   url "https://github.com/dmoncada/Scroll/releases/download/v#{version}/Scroll-#{version}.zip"
   name "Scroll"
