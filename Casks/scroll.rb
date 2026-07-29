@@ -7,6 +7,8 @@ cask "scroll" do
   desc "Reverse mouse-wheel scrolling while preserving trackpad scrolling"
   homepage "https://github.com/dmoncada/Scroll"
 
+  depends_on :macos
+
   app "Scroll.app"
 
   caveats do
